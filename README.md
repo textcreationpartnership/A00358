@@ -36,11 +36,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A treatise perswadynge a man patientlye to suffre the deth of his frendeDe morte declamatio. English
+Into this worlde naked we enteredAnd so we must agayne out of it fareDeth By no man can Be defended.
 #####Body#####
-A treatise perswadynge a man patientlye to suffre the deth of his frendeDe morte declamatio. English
+
+1. A comfortable exhortation agaynst the chaunces of deth / made by Erasmus Rot.
+
 #####Back#####
-A treatise perswadynge a man patientlye to suffre the deth of his frendeDe morte declamatio. English
+Thomas Berthelet regius impressor excudebat. Cum priuilegio.
 **Types of content**
 
   * There are 12 **verse** lines!
